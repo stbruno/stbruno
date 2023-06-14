@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou o @stbruno
+- 👀 Estou interessado em aprender mais sobre linguagens de programação
+- 🌱 Atualmente estou aprendendo Python
